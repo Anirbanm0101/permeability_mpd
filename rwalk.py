@@ -43,7 +43,7 @@ def rw(p0):
             y=y1
             z=z1-1
  
-        if y==0 or y==5:
+        if y==0 or y==d:
             return(z)
         #i+=1
         x1=x
